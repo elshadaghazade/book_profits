@@ -375,3 +375,65 @@ When endpoint receives PUT method it means that backend should save/update sent 
     "data": null
 }
 ```
+
+---
+
+## Offers listing for extension notifications
+
+This endpoint sends new offers listing where they will appear on chrome extension popup.
+
+### Request:
+
+<table>
+    <tbody>
+        <tr>
+            <td>Endpoint:</td>
+            <td colspan="9">/offers_listing/</td>
+        </tr>
+        <tr>
+            <td>Method:</td>
+            <td>GET</td>
+        </tr>
+        <tr>
+            <td>Authentication:</td>
+            <td>Cookie</td>
+        </tr>
+    </tbody>
+</table>
+
+### Success Response:
+
+```js
+
+{
+    "status": 200,
+    "error_message": null,
+    "data": {
+        "count": 28, // this number will appear as a badge on chrome extension icon
+        "offers": [
+            {
+                "img_url": "https://cdn.membercentral.net/book_images/offer1.jpg",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quis illum a at dolores libero laborum.",
+                "url": "https://membercentral.net/offers/1/"
+            },
+            ...
+            {
+                "img_url": "https://cdn.membercentral.net/book_images/offer1.jpg",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quis illum a at dolores libero laborum.",
+                "url": "https://membercentral.net/offers/1/"
+            }
+        ]
+    }
+}
+```
+
+### Error Response:
+
+```js
+
+{
+    "status": 500, // here should be appropriate HTTP status
+    "error_message": "Something went wrong",
+    "data": null
+}
+```
