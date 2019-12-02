@@ -409,6 +409,7 @@ This endpoint sends new offers listing where they will appear on chrome extensio
     "error_message": null,
     "data": {
         "count": 28, // this number will appear as a badge on chrome extension icon
+        "see_all_link": "https://membercentral.net/offers/",
         "offers": [
             {
                 "img_url": "https://cdn.membercentral.net/book_images/offer1.jpg",
