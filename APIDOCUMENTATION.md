@@ -247,6 +247,39 @@ This endpoint sends all price history data for particular category (used like ne
 }
 ```
 
+IF RESPONSE IS FOR HISTORICAL DATA (used count or new count) THEN RESPONSE SHOULD BE A LITTLE BIT DIFFERENT:
+```js
+
+{
+    "status": 200,
+    "error_message": null,
+    "data": {
+        "history": [
+            {
+                "when": 1574941564, // timestamp
+                "value": {
+                    "historical_data": [52, 35] // difference is here. Value is not a number as a previous responses but array. 1st value is new count & the 2nd value is used count
+                }
+            },
+            {
+                "when": 1574941564, // timestamp
+                "value": {
+                    "historical_data": [67, 22] // difference is here. Value is not a number as a previous responses but array. 1st value is new count & the 2nd value is used count
+                }
+            },
+            ...
+            {
+                "when": 1574941564, // timestamp
+                "value": {
+                    "historical_data": [88, 95] // difference is here. Value is not a number as a previous responses but array. 1st value is new count & the 2nd value is used count
+                }
+            }
+        ]
+    }
+}
+```
+
+
 ### Error Response:
 
 ```js
