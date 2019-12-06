@@ -295,11 +295,11 @@ This endpoint sends all price history data for particular category (used like ne
 
 ## Global and Individual Tracking Settings
 
-This endpoint will be used for both sections: Tracking Individual Product & Global Tracking Settings. The endpoint accepts two type of request method: GET and PUT.
+This endpoint will be used for both sections: Tracking Individual Product & Global Tracking Settings. The endpoint accepts two type of request method: GET and POST.
 
 When endpoint receives GET method it should send back user's pre-saved individual and global tracking information at the same time on one single response.
 
-When endpoint receives PUT method it means that backend should save/update sent data.
+When endpoint receives POST method it means that backend should save/update sent data.
 
 ### Request with GET method:
 
@@ -357,7 +357,7 @@ When endpoint receives PUT method it means that backend should save/update sent 
 
 ***hint:*** *Meaning of conditions: 1 - new, 2 - used like new, 3 - used very good, 4 - used good, 5 - used acceptable*
 
-### Request with PUT method:
+### Request with POST method:
 
 <table>
     <tbody>
@@ -367,14 +367,14 @@ When endpoint receives PUT method it means that backend should save/update sent 
         </tr>
         <tr>
             <td>Method:</td>
-            <td colspan="9">PUT</td>
+            <td colspan="9">POST</td>
         </tr>
         <tr>
             <td>Authentication:</td>
             <td colspan="9">Cookie</td>
         </tr>
         <tr>
-            <td rowspan="12"><strong>PUT Parameters:</strong></td>
+            <td rowspan="12"><strong>POST Parameters:</strong></td>
         </tr>
         <tr>
             <td><strong>Parameter name</strong></td>
