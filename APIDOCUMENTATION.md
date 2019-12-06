@@ -247,7 +247,7 @@ This endpoint sends all price history data for particular category (used like ne
 }
 ```
 
-IF RESPONSE IS FOR HISTORICAL DATA (used count or new count) THEN RESPONSE SHOULD BE A LITTLE BIT DIFFERENT:
+**IF RESPONSE IS FOR HISTORICAL DATA (used count or new count) THEN RESPONSE SHOULD BE A LITTLE BIT DIFFERENT:**
 ```js
 
 {
