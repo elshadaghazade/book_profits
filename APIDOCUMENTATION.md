@@ -69,32 +69,92 @@ This endpoint sends all price history data for amazon, new and used categories. 
         ],
         "statistics": {
             "amazon": {
-                "lowest": 111.184,
-                "current": 110.856,
-                "highest": 123.454,
-                "average": 95.566,
-                "drops": 4
+                "lowest": {
+                    "value": 111.184, 
+                    "when": "10 days ago"
+                },
+                "current": {
+                    "value": 110.856,
+                    "when": "a week ago"
+                },
+                "highest": {
+                    "value": 123.454,
+                    "when": "2 hours ago"
+                },
+                "average": {
+                    "value": 95.566,
+                    "when": "10 days ago"
+                },
+                "drops": {
+                    "value": 4,
+                    "when": "per month"
+                }
             },
             "new": {
-                "lowest": 111.184,
-                "current": 110.856,
-                "highest": 123.454,
-                "average": 95.566,
-                "drops": 4
+                "lowest": {
+                    "value": 111.184, 
+                    "when": "10 days ago"
+                },
+                "current": {
+                    "value": 110.856,
+                    "when": "a week ago"
+                },
+                "highest": {
+                    "value": 123.454,
+                    "when": "2 hours ago"
+                },
+                "average": {
+                    "value": 95.566,
+                    "when": "10 days ago"
+                },
+                "drops": {
+                    "value": 4,
+                    "when": "per month"
+                }
             },
             "used": {
-                "lowest": 111.184,
-                "current": 110.856,
-                "highest": 123.454,
-                "average": 95.566,
-                "drops": 4
+                "lowest": {
+                    "value": 111.184, 
+                    "when": "10 days ago"
+                },
+                "current": {
+                    "value": 110.856,
+                    "when": "a week ago"
+                },
+                "highest": {
+                    "value": 123.454,
+                    "when": "2 hours ago"
+                },
+                "average": {
+                    "value": 95.566,
+                    "when": "10 days ago"
+                },
+                "drops": {
+                    "value": 4,
+                    "when": "per month"
+                }
             },
             "sales_rank": {
-                "lowest": 10000,
-                "current": 20000,
-                "highest": 30000,
-                "average": 40000,
-                "drops": 50000
+                "lowest": {
+                    "value": 10000, 
+                    "when": "10 days ago"
+                },
+                "current": {
+                    "value": 20000,
+                    "when": "a week ago"
+                },
+                "highest": {
+                    "value": 30000,
+                    "when": "2 hours ago"
+                },
+                "average": {
+                    "value": 40000,
+                    "when": "10 days ago"
+                },
+                "drops": {
+                    "value": 91,
+                    "when": "per month"
+                }
             }
         }
     }
