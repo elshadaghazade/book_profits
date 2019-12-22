@@ -44,6 +44,7 @@ This endpoint sends all price history data for amazon, new and used categories. 
                     "amazon": 30.833,
                     "new": 28.712,
                     "used": 31.567,
+                    "warehouse": 235.34,
                     "sales_rank": 10456
                 }
             },
@@ -53,6 +54,7 @@ This endpoint sends all price history data for amazon, new and used categories. 
                     "amazon": 30.833,
                     "new": 28.712,
                     "used": 31.567,
+                    "warehouse": 235.34,
                     "sales_rank": 10456
                 }
             },
@@ -63,6 +65,7 @@ This endpoint sends all price history data for amazon, new and used categories. 
                     "amazon": 30.833,
                     "new": 28.712,
                     "used": 31.567,
+                    "warehouse": 235.34,
                     "sales_rank": 10456
                 }
             }
@@ -208,7 +211,6 @@ This endpoint sends all price history data for particular category (used like ne
                     <li>3 - used good</li>
                     <li>4 - used acceptable</li>
                     <li>5 - historical data (used & new count)</li>
-                    <li>6 - warehouse</li>
                 </ul>
             </td>
         </tr>
