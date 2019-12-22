@@ -208,6 +208,7 @@ This endpoint sends all price history data for particular category (used like ne
                     <li>3 - used good</li>
                     <li>4 - used acceptable</li>
                     <li>5 - historical data (used & new count)</li>
+                    <li>6 - warehouse</li>
                 </ul>
             </td>
         </tr>
