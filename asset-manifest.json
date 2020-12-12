@@ -1,26 +1,27 @@
 {
   "files": {
     "main.css": "./static/css/main.86ac1c4d.chunk.css",
-    "main.js": "./static/js/main.db744d84.chunk.js",
-    "main.js.map": "./static/js/main.db744d84.chunk.js.map",
+    "main.js": "./static/js/main.056b7849.chunk.js",
+    "main.js.map": "./static/js/main.056b7849.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.40da974b.js",
     "runtime-main.js.map": "./static/js/runtime-main.40da974b.js.map",
     "static/css/2.b0bb7f2c.chunk.css": "./static/css/2.b0bb7f2c.chunk.css",
-    "static/js/2.65dc708d.chunk.js": "./static/js/2.65dc708d.chunk.js",
-    "static/js/2.65dc708d.chunk.js.map": "./static/js/2.65dc708d.chunk.js.map",
+    "static/js/2.9cd086d1.chunk.js": "./static/js/2.9cd086d1.chunk.js",
+    "static/js/2.9cd086d1.chunk.js.map": "./static/js/2.9cd086d1.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.0b04509a4553efbd67d2b30f13b905d7.js": "./precache-manifest.0b04509a4553efbd67d2b30f13b905d7.js",
+    "precache-manifest.41c9bf160893a9694494fa37f23ca260.js": "./precache-manifest.41c9bf160893a9694494fa37f23ca260.js",
     "service-worker.js": "./service-worker.js",
     "static/css/2.b0bb7f2c.chunk.css.map": "./static/css/2.b0bb7f2c.chunk.css.map",
     "static/css/main.86ac1c4d.chunk.css.map": "./static/css/main.86ac1c4d.chunk.css.map",
     "static/media/abe-logo.png": "./static/media/abe-logo.1d7119f7.png",
+    "static/media/amazon-fba-icon.png": "./static/media/amazon-fba-icon.44ffbe07.png",
     "static/media/powered-by-logo-blue.png": "./static/media/powered-by-logo-blue.268bcfb7.png"
   },
   "entrypoints": [
     "static/js/runtime-main.40da974b.js",
     "static/css/2.b0bb7f2c.chunk.css",
-    "static/js/2.65dc708d.chunk.js",
+    "static/js/2.9cd086d1.chunk.js",
     "static/css/main.86ac1c4d.chunk.css",
-    "static/js/main.db744d84.chunk.js"
+    "static/js/main.056b7849.chunk.js"
   ]
 }

@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ba7e1b9cd1c18426eed878de1c2533b8",
+    "revision": "8bd7d155805f2fbdb6bf9cfb2dc9102f",
     "url": "./index.html"
   },
   {
-    "revision": "9360afc68c4eeef9c813",
+    "revision": "4fa906a832d05c6ae418",
     "url": "./static/css/2.b0bb7f2c.chunk.css"
   },
   {
-    "revision": "b5eb582fa6f496f8a8e0",
+    "revision": "aed4836dc6477df433ae",
     "url": "./static/css/main.86ac1c4d.chunk.css"
   },
   {
-    "revision": "9360afc68c4eeef9c813",
-    "url": "./static/js/2.65dc708d.chunk.js"
+    "revision": "4fa906a832d05c6ae418",
+    "url": "./static/js/2.9cd086d1.chunk.js"
   },
   {
-    "revision": "b5eb582fa6f496f8a8e0",
-    "url": "./static/js/main.db744d84.chunk.js"
+    "revision": "aed4836dc6477df433ae",
+    "url": "./static/js/main.056b7849.chunk.js"
   },
   {
     "revision": "f57f88a7b422bacece64",
@@ -26,6 +26,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "1d7119f781a1e423b511f4a300be3e4c",
     "url": "./static/media/abe-logo.1d7119f7.png"
+  },
+  {
+    "revision": "44ffbe07867f7f7a9b4d6d776855e619",
+    "url": "./static/media/amazon-fba-icon.44ffbe07.png"
   },
   {
     "revision": "268bcfb771ed179d2f723ee2a1e394ba",
