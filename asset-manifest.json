@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "./static/css/main.259c1daa.chunk.css",
+    "main.css": "./static/css/main.c5ce32e9.chunk.css",
     "main.js": "./static/js/main.07fef1b0.chunk.js",
     "main.js.map": "./static/js/main.07fef1b0.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.40da974b.js",
@@ -9,10 +9,10 @@
     "static/js/2.1ce254db.chunk.js": "./static/js/2.1ce254db.chunk.js",
     "static/js/2.1ce254db.chunk.js.map": "./static/js/2.1ce254db.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.eb0422ecf2bf0ea7b7a399d65c75461c.js": "./precache-manifest.eb0422ecf2bf0ea7b7a399d65c75461c.js",
+    "precache-manifest.733387f2f5d66ca477b30a6b2306a322.js": "./precache-manifest.733387f2f5d66ca477b30a6b2306a322.js",
     "service-worker.js": "./service-worker.js",
     "static/css/2.b0bb7f2c.chunk.css.map": "./static/css/2.b0bb7f2c.chunk.css.map",
-    "static/css/main.259c1daa.chunk.css.map": "./static/css/main.259c1daa.chunk.css.map",
+    "static/css/main.c5ce32e9.chunk.css.map": "./static/css/main.c5ce32e9.chunk.css.map",
     "static/media/abe-logo.png": "./static/media/abe-logo.1d7119f7.png",
     "static/media/amazon-fba-icon.png": "./static/media/amazon-fba-icon.44ffbe07.png",
     "static/media/powered-by-logo-blue.png": "./static/media/powered-by-logo-blue.268bcfb7.png"
@@ -21,7 +21,7 @@
     "static/js/runtime-main.40da974b.js",
     "static/css/2.b0bb7f2c.chunk.css",
     "static/js/2.1ce254db.chunk.js",
-    "static/css/main.259c1daa.chunk.css",
+    "static/css/main.c5ce32e9.chunk.css",
     "static/js/main.07fef1b0.chunk.js"
   ]
 }
