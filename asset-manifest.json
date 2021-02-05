@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "./static/css/main.efb2ab34.chunk.css",
-    "main.js": "./static/js/main.98972e80.chunk.js",
+    "main.css": "./static/css/main.e2aa2960.chunk.css",
+    "main.js": "./static/js/main.2c0418d3.chunk.js",
     "runtime-main.js": "./static/js/runtime-main.40da974b.js",
     "static/css/2.e975ae8e.chunk.css": "./static/css/2.e975ae8e.chunk.css",
     "static/js/2.1ce254db.chunk.js": "./static/js/2.1ce254db.chunk.js",
     "index.html": "./index.html",
-    "precache-manifest.32ab7cdd605d842b0cb47f9b7acfbce5.js": "./precache-manifest.32ab7cdd605d842b0cb47f9b7acfbce5.js",
+    "precache-manifest.549b8c3ca30132b72e3da640a3bbda27.js": "./precache-manifest.549b8c3ca30132b72e3da640a3bbda27.js",
     "service-worker.js": "./service-worker.js",
     "static/media/abe-logo.png": "./static/media/abe-logo.1d7119f7.png",
     "static/media/amazon-fba-icon.png": "./static/media/amazon-fba-icon.44ffbe07.png",
@@ -16,7 +16,7 @@
     "static/js/runtime-main.40da974b.js",
     "static/css/2.e975ae8e.chunk.css",
     "static/js/2.1ce254db.chunk.js",
-    "static/css/main.efb2ab34.chunk.css",
-    "static/js/main.98972e80.chunk.js"
+    "static/css/main.e2aa2960.chunk.css",
+    "static/js/main.2c0418d3.chunk.js"
   ]
 }
